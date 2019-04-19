@@ -54,7 +54,7 @@ let inventory = [{"id":1,"car_make":"Lincoln","car_model":"Navigator","car_year"
 {"id":50,"car_make":"Lincoln","car_model":"Town Car","car_year":1999}];
 
 
-// Example for loop:
+// Finished:  Example for loop:
 
 // arr = [1,2,3,4];
 // for (let i = 0; i < arr.length; i++) {
